@@ -19,9 +19,9 @@ Tenho 3 projetos documentados com resultados reais:
 
 ### 📈 **[CASO 1: Sistema de Precificação E-commerce](CASO_ESTUDO_1_PRECIFICACAO.md)**
 - **Problema:** 18% das vendas saindo com prejuízo
-- **Solução:** Sistema inteligente de precificação (Python)
+- **Solução:** Sistema inteligente de precificação (automações low-code e scripts; conhecimento básico em Python)
 - **Resultado:** Eliminadas perdas | **+150% na margem**
-- **Tecnologia:** Python | Análise de dados
+- **Tecnologia:** SQL, automações low-code (Zapier/Make), conhecimento básico em Python | Análise de dados
 
 ### 🏥 **[CASO 2: Automação CRM para Clínicas](CASO_ESTUDO_2_CRM_CLINICAS.md)**
 - **Problema:** 25% de cancelamento de pacientes
@@ -38,16 +38,16 @@ Tenho 3 projetos documentados com resultados reais:
   - **-55% tempo operacional**
   - **6.800 pedidos/mês** com 2 pessoas
 - **Impacto:** R$ 137.000/mês de receita adicional
-- **Tecnologia:** Python | SQL | Automação | Process Optimization
+- **Tecnologia:** SQL, automações low-code (Zapier/Make), conhecimento básico em Python | Automação | Process Optimization
 
 ---
 
 ## 🛠️ Stack Técnico
 
-- **Languages:** Python, SQL
-- **Platforms:** Supabase (PostgreSQL), Zapier/Make, Shopee, Mercado Livre, TikTok Shop, Amazon
-- **Tools:** Git, Excel (avançado), ERP, CRM
-- **Skills:** Precificação dinâmica, Automação de processos, Análise de dados, Customer Success
+- **Linguagens / Ferramentas:** SQL; conhecimento básico em Python (scripts simples) — foco em ferramentas low-code/no-code (Zapier, Make)
+- **Plataformas:** Supabase (PostgreSQL), Zapier/Make, Shopee, Mercado Livre, TikTok Shop, Amazon
+- **Ferramentas:** Excel (avançado), CRM, ERP, Git (básico)
+- **Competências:** Precificação dinâmica, Automação (low-code/no-code), Análise de dados (SQL), Customer Success
 
 ---
 

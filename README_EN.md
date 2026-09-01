@@ -21,9 +21,9 @@ My strength: **documenting every step** and **measuring everything in numbers** 
 
 ### 📈 **[CASE 1: E-commerce Pricing System](CASO_ESTUDO_1_PRECIFICACAO.md)**
 - **Problem:** 18% of sales losing money
-- **Solution:** Smart pricing system (Python)
+- **Solution:** Smart pricing system (low-code automations and scripts; basic Python knowledge)
 - **Result:** Eliminated losses | **+150% margin**
-- **Technology:** Python | Data Analysis
+- **Technology:** SQL, low-code automations (Zapier/Make), basic Python | Data analysis
 
 ### 🏥 **[CASE 2: CRM Automation for Clinics](CASO_ESTUDO_2_CRM_CLINICAS.md)**
 - **Problem:** 25% patient cancellation rate
@@ -40,16 +40,16 @@ My strength: **documenting every step** and **measuring everything in numbers** 
   - **-55% operational time**
   - **6,800 orders/month** with just 2 people
 - **Impact:** +$32,000/month in additional revenue
-- **Technology:** Python | SQL | Automation | Process Optimization
+- **Technology:** SQL, low-code automations (Zapier/Make), basic Python | Automation | Process Optimization
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, SQL
+- **Languages / Tools:** SQL; basic knowledge of Python (simple scripts) — primary focus on low-code/no-code tools (Zapier, Make)
 - **Platforms:** Supabase (PostgreSQL), Zapier/Make, Shopee, Mercado Livre, TikTok Shop, Amazon
-- **Tools:** Git, Excel (Advanced), ERP, CRM
-- **Skills:** Dynamic pricing, Process automation, Data analysis, Customer success
+- **Tools:** Excel (Advanced), CRM, ERP, Git (basic)
+- **Skills:** Dynamic pricing, Low-code/no-code automation, Data analysis (SQL), Customer success
 
 ---
 
