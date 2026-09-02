@@ -11,7 +11,7 @@
 │  ⏱️  Duração: 2 meses            │  ⏱️  Duração: 1 mês            │
 │  📈 Margem: +150%               │  📉 Cancelamento: -68%         │
 │  💰 Prejuízo: 18% → 0%          │  💵 Receita: +40%              │
-│  ✅ Status: Implementado         │  ✅ Status: Implementado       │
+│  ✅ Status: Implementado (com contribuições operacionais) │  ✅ Status: Implementado (com contribuições operacionais) │
 │                                                                   │
 ├─────────────────────────────────────────────────────────────────┤
 │                                                                   │
@@ -39,7 +39,7 @@ ANTES (Sem Sistema)
 ├─ Decisões manuais (erro humano)
 └─ Resultado: Perdendo dinheiro
 
-DEPOIS (Com Sistema Python)
+DEPOIS (Com sistema híbrido: automações low-code e scripts auxiliares)
 ├─ 0% vendas com prejuízo ✅
 ├─ Margem garantida
 ├─ Cálculo automático
@@ -55,7 +55,7 @@ DEPOIS (Com Sistema Python)
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
-### Fórmula Implementada
+### Fórmula utilizada
 ```python
 Preço Venda = Custo / (1 - Taxa Total - Margem Desejada)
 
@@ -99,7 +99,7 @@ Satisfação paciente:     +35%
 Tempo operacional:       -50%
 ```
 
-### Stack Implementado
+### Stack utilizado
 ```
 Google Forms (Agendar)
     ↓
@@ -221,29 +221,22 @@ Resultado: 55% menos trabalho manual!
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
-### O Que Fiz
+### Contribuições realizadas (exemplos)
 
 ```
-Diagnosticar
+Diagnóstico e mapeamento de problemas operacionais
     ↓
-Precificação errada (mesma em todas plataformas)
-Estoque desorganizado
-Devoluções por falta de descrição
-Fulfillment lento
+Suporte na implementação (em equipe)
     ↓
-Implementar
+- Apoio na configuração do sistema de precificação híbrido (automações + scripts auxiliares)
+- Suporte em centralização de estoque e sincronização
+- Participação na otimização de descrições e fotos de produtos
+- Apoio operacional no processo de fulfillment para redução de tempo
     ↓
-✓ Sistema de precificação dinâmica por marketplace
-✓ Estoque centralizado + sync automático
-✓ Descrições otimizadas + fotos melhores
-✓ Processo de fulfillment 50% mais rápido
-✓ Customer success pós-venda (reduz devoluções)
+Monitoramento e ajustes
     ↓
-Monitorar
-    ↓
-Dashboard com métricas em tempo real
-Alertas para problemas
-Otimização contínua
+- Contribuição para dashboards de métricas e alertas
+- Ajustes contínuos conforme dados
 ```
 
 ---
@@ -254,12 +247,12 @@ Otimização contínua
 
 | Item | Meu Perfil |
 |------|-----------|
-| **Experiência** | 6+ anos operações |
-| **Prova prática** | 3 casos com ROI documentado |
-| **Maior impacto** | +82% receita (R$ 1.6M/ano) |
-| **Skills** | Python, SQL, Automação, Dados |
-| **Mentalidade** | Tudo tem número. Tudo é escalável. |
-| **Velocidade** | 2 meses para implementar e 6 meses para escalar |
+| **Experiência** | 6+ anos em operações e suporte |
+| **Prova prática** | 3 casos com resultados mensuráveis |
+| **Maior impacto** | +82% receita (resultado da equipe com minha contribuição) |
+| **Skills** | SQL, automações low-code (Zapier/Make), conhecimento básico em Python (scripts) |
+| **Mentalidade** | Orientado a números e execução operacional |
+| **Velocidade** | Rápido na execução de tarefas operacionais e ajustes |
 
 ### Por Que Contratar?
 

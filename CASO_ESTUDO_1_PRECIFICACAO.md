@@ -28,7 +28,7 @@ A Fox Pet Shop operava com:
 - Calculou custo real por canal de venda
 
 ### Fase 2: Desenvolvimento
-Criei **sistema inteligente de precificação** em Python que:
+Contribuí na implementação de um **sistema de precificação híbrido** (automações low-code, SQL e scripts auxiliares) que:
 
 ```python
 # Fórmula implementada:
@@ -74,8 +74,7 @@ Preço Venda = Custo / (1 - Taxa Total - Margem Desejada)
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Linguagem:** Python 3
-- **Estrutura:** OOP (Object-Oriented Programming)
+- **Ferramentas:** SQL, automações low-code (Zapier/Make), scripts auxiliares (conhecimento básico em Python)
 - **Dados:** Análise de 6.000 transações/mês
 - **Integração:** ERP, CRM, Marketplace APIs
 
@@ -139,5 +138,5 @@ Se você enfrenta:
 
 ---
 
-**Harley Bonfatti** | Customer Success & E-commerce Operations  
-Especialista em otimização de operações de marketplace
+**Harley Bonfatti** | Assistente de E-commerce  
+Atuação com automações low-code, SQL e apoio em scripts

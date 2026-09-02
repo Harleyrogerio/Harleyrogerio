@@ -30,7 +30,7 @@ Quando assumi como Assistente de E-commerce, encontrei:
 
 ## 💡 Estratégia de Transformação
 
-Implementei 3 pilares:
+Contribuí para a implementação de 3 pilares:
 
 ### PILAR 1: Otimização de Anúncios
 
@@ -64,7 +64,7 @@ Depois: 340 visualizações/produto/dia (+183%)
   - 22% - Foto enganosa
   - 15% - Outra
 
-**Ações Implementadas:**
+**Ações realizadas (contribuições em equipe):**
 
 1. **Descrições Ultra-Claras**
    ```
@@ -239,5 +239,5 @@ Reduzir devoluções > Conseguir novos clientes
 
 ---
 
-**Harley Bonfatti** | E-commerce & Customer Success Operations  
-Especialista em transformação digital de operações marketplace
+**Harley Bonfatti** | Assistente de E-commerce  
+Atuação em automações low-code, SQL e suporte operacional

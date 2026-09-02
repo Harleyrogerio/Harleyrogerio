@@ -31,7 +31,7 @@ As 3 clínicas enfrentavam:
 - Estruturou banco de dados necessário
 
 ### Fase 2: Banco de Dados (Supabase)
-Criei estrutura PostgreSQL com:
+Contribuí na criação da estrutura PostgreSQL com:
 
 ```sql
 -- Tabela Pacientes
@@ -76,9 +76,9 @@ CREATE TABLE automacoes (
 );
 ```
 
-### Fase 3: Fluxos Automatizados Implementados
+### Fase 3: Fluxos Automatizados (contribuição)
 
-**Fluxo 1: Onboarding (Novo Paciente)**
+**Fluxo 1: Onboarding (Novo Paciente) — contribuição operacional**
 ```
 1. Paciente entra no formulário
    ↓
@@ -245,13 +245,13 @@ DEPOIS (Operação Automatizada):
 - Pacientes/clientes "caindo no esquecimento"
 - Impossibilidade de escalar sem contratar
 
-**Eu consigo:**
-✓ Desenhar automação customizada  
-✓ Implementar com ferramentas SaaS  
-✓ Treinar seu time  
-✓ Garantir adoção e resultados
+**Minhas contribuições (exemplos):**
+✓ Apoio no desenho de automações customizadas  
+✓ Apoio na implementação com ferramentas SaaS (Zapier/Make)  
+✓ Treinamento operacional básico para usuários finais  
+✓ Monitoramento e ajustes para garantir adoção e resultados
 
 ---
 
-**Harley Bonfatti** | Especialista em Automação & Customer Experience  
-Prova real de impacto em operações B2B e B2C
+**Harley Bonfatti** | Assistente de E-commerce / Automação  
+Atuação em automações low-code, SQL e suporte operacional
