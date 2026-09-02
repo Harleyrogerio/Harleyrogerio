@@ -31,7 +31,7 @@ A Fox Pet Shop operava com:
 Contribuí na implementação de um **sistema de precificação híbrido** (automações low-code, SQL e scripts auxiliares) que:
 
 ```python
-# Fórmula implementada:
+# Fórmula utilizada:
 Preço Venda = Custo / (1 - Taxa Total - Margem Desejada)
 
 # Exemplo prático:
@@ -41,12 +41,19 @@ Preço Venda = Custo / (1 - Taxa Total - Margem Desejada)
 - Amazon (15% + 2.9%): R$ 95,97 ✓ LUCRO
 ```
 
+Além disso, implementei um **avisador automático de margem** que monitorava vendas em tempo real e gerava alertas quando a margem estava abaixo dos limites definidos (com flag de atenção em vendas detectadas abaixo de 5%, sendo a margem alvo mínima definida em 6%). A arquitetura do avisador incluiu:
+
+- Checagem de ordens e cálculo de margem via consultas SQL em Supabase (Webhooks / Triggers / Scheduled Functions)
+- Integração com APIs dos marketplaces (Mercado Livre, Shopee, Nuvem Shop) e ERP (Tiny) para obter custo, taxas e vendas
+- Envio automático de e-mail ao time responsável por precificação (ex.: SendGrid) com SKU, preço praticado, margem calculada e link para revisão
+- Fluxo de auditoria: registro dos alertas no Supabase para análise e follow-up
+
 **Features principais:**
 - ✓ Cálculo automático por marketplace
-- ✓ Margem de lucro garantida
-- ✓ Comparação de rentabilidade
-- ✓ Dashboard comparativo
-- ✓ Simulações de cenários
+- ✓ Monitoramento e alertas de margem (thresholds configuráveis)
+- ✓ Notificações por e-mail para time de precificação
+- ✓ Comparação de rentabilidade e dashboard para revisão rápida
+- ✓ Simulações de cenários e auditoria de histórico de alertas
 
 ### Fase 3: Implementação
 - Integração com processos de precificação
@@ -74,9 +81,10 @@ Preço Venda = Custo / (1 - Taxa Total - Margem Desejada)
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Ferramentas:** SQL, automações low-code (Zapier/Make), scripts auxiliares (conhecimento básico em Python)
+- **Ferramentas:** Supabase (Postgres + Functions), SQL, automações low-code (Zapier/Make), scripts auxiliares (Python básico)
+- **Integrações de dados:** APIs Mercado Livre, Shopee, Nuvem Shop e ERP Tiny (sincronização de preços, custos e ordens)
+- **Notificações:** Envio de e-mail automático (ex.: SendGrid) e registro de alertas em Supabase
 - **Dados:** Análise de 6.000 transações/mês
-- **Integração:** ERP, CRM, Marketplace APIs
 
 ---
 
