@@ -78,7 +78,7 @@ Tenho 3 projetos documentados com resultados reais:
 
 ✅ **Operacional:** Processos, escalabilidade, eficiência, análise de gargalos
 ✅ **E-commerce:** Marketplaces (Shopee, Mercado Livre, TikTok Shop, Amazon), precificação, fulfillment
-✅ **Automação:** Zapier, Make, Webhooks, CRM, Google Sheets
+✅ **Automação:** N8N, MANYCHAT, Webhooks, CRM, Google Sheets
 ✅ **Dados:** SQL, análise, reporting, métricas (ROI, LTV, CAC, etc)
 ✅ **Customer Success:** Retenção, satisfação, suporte, relacionamento
 
@@ -97,7 +97,7 @@ Tenho 3 projetos documentados com resultados reais:
 ## 🔗 Links Úteis
 
 - **LinkedIn:** [linkedin.com/in/harleybonfatti](https://linkedin.com/in/harleybonfatti)
-- **Email:** [seu_email@example.com]
+- **Email:** [harleyrogerio11@gmail.com]
 - **Telefone:** (11) 99608-4893
 
 ---
