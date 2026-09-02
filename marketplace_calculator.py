@@ -69,11 +69,16 @@ class MarketplaceCalculator:
         
         for chave, dados in mercados.items():
             # Cálculo: Preço de venda necessário para manter margem após taxas
-            # Preço venda = Custo / (1 - taxa_total - margem)
+            # Garante margem mínima de 6% (0.06)
+            if margem_lucro < 0.06:
+                margem_usada = 0.06
+            else:
+                margem_usada = margem_lucro
+            # Preço venda = Custo / (1 - taxa_total - margem_usada)
             taxa_total = dados['comissao'] + dados['taxa_pagamento']
             
-            # Preço com margem
-            preco_venda = preco_custo / (1 - taxa_total - margem_lucro)
+            # Preço com margem garantida
+            preco_venda = preco_custo / (1 - taxa_total - margem_usada)
             
             # Valores de taxas
             valor_comissao = preco_venda * dados['comissao']
@@ -102,7 +107,9 @@ class MarketplaceCalculator:
         resultados = self.calcular_preco_final(preco_custo, margem_lucro)
         
         print(f"\n{'='*100}")
-        print(f"COMPARAÇÃO DE PREÇOS - Custo: R$ {preco_custo:.2f} | Margem desejada: {margem_lucro*100:.0f}%")
+        margem_display = max(margem_lucro, 0.06)
+        note = ' (mínimo 6% aplicado)' if margem_display > margem_lucro else ''
+        print(f"COMPARAÇÃO DE PREÇOS - Custo: R$ {preco_custo:.2f} | Margem alvo: {margem_display*100:.0f}%{note}")
         print(f"{'='*100}\n")
         
         # Ordena por preço de venda (menor para maior)
