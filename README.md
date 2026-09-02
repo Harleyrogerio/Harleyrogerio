@@ -51,12 +51,6 @@ Tenho 3 projetos documentados com resultados reais:
 
 ---
 
-## 📚 Recursos Adicionais
-
-- **📋 [Plano de Carreira - 8 Semanas](README_PLANO_CARREIRA.md)** - Estratégia completa para conseguir trabalho remoto
-- **📧 [Templates de Email](EMAIL_TEMPLATE_RECRUTADORES.md)** - 5 modelos prontos para outreach
-- **🔍 [Índice Completo](INDICE_COMPLETO.md)** - Navegação de todos os recursos
-- **💻 [Calculadora de Preços](marketplace_calculator.py)** - Ferramenta para calcular preço final por marketplace
 
 ---
 
