@@ -66,7 +66,7 @@ My strength: **documenting every step** and **measuring everything in numbers** 
 ## 💼 Experience
 
 ### **Fox Pet Shop** (2025 - Present)
-- **Role:** E-commerce Operations Manager
+- **Role:** E-commerce Assistant
 - **Responsibilities:**
   - Manage 6,000+ orders/month across multiple marketplaces
   - Optimize pricing and margins by platform

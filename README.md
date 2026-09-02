@@ -63,12 +63,13 @@ Tenho 3 projetos documentados com resultados reais:
 ## 💼 Experiência
 
 ### **Fox Pet Shop** (2025 - Presente)
-- **Cargo:** Gestor de Operações E-commerce
+- **Cargo:** Assistente de E-commerce
 - **Responsabilidades:**
-  - Gerenciar 6.000+ pedidos/mês em múltiplos marketplaces
-  - Otimizar precificação e margem por plataforma
-  - Reducir devoluções e reclamações
-  - Implementar automações para escalar sem aumentar time
+  - Suporte nas operações de 6.000+ pedidos/mês em múltiplos marketplaces
+  - Auxiliar na otimização de precificação e margem por plataforma
+  - Acompanhar e reduzir devoluções e reclamações
+  - Suportar a implementação de automações para escalabilidade
+  - Trabalhar com ferramentas low-code/no-code e SQL para relatórios e integrações
 
 ### Experiências Anteriores
 - Consultoria em E-commerce
