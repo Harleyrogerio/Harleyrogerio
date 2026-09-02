@@ -19,13 +19,12 @@ My strength: **documenting every step** and **measuring everything in numbers** 
 
 3 projects documented with real results:
 
-### 📈 **[CASE 1: E-commerce Pricing System (EN)](CASO_ESTUDO_1_PRECIFICACAO_EN.md)**
+### 📈 **[CASE 1: E-commerce Pricing System](CASO_ESTUDO_1_PRECIFICACAO_EN.md)**
 - **Problem:** 18% of sales losing money
 - **Solution:** Smart pricing system with real-time margin alerts (Supabase) and integrations with marketplaces and ERP
 - **Result:** Eliminated losses | **+150% margin**
 - **Technology:** Supabase, SQL, marketplace APIs (Mercado Livre, Shopee, Nuvem Shop), Tiny ERP, SendGrid, Zapier/Make | Data analysis
-
-- **PDF (English):** Available on Desktop as `CASO_ESTUDO_1_PRICING_EN_Harley.pdf`
+- **📥 PDF:** [Download Full Case Study](docs/CASO_ESTUDO_1_PRICING_EN_Harley.pdf)
 
 ### 🏥 **[CASE 2: CRM Automation for Clinics](CASO_ESTUDO_2_CRM_CLINICAS.md)**
 - **Problem:** 25% patient cancellation rate

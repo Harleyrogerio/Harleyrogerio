@@ -19,9 +19,10 @@ Tenho 3 projetos documentados com resultados reais:
 
 ### 📈 **[CASO 1: Sistema de Precificação E-commerce](CASO_ESTUDO_1_PRECIFICACAO.md)**
 - **Problema:** 18% das vendas saindo com prejuízo
-- **Solução:** Sistema inteligente de precificação (automações low-code e scripts; conhecimento básico em Python)
+- **Solução:** Sistema inteligente de precificação (automações low-code, SQL e scripts) + avisador de margem via Supabase
 - **Resultado:** Eliminadas perdas | **+150% na margem**
-- **Tecnologia:** SQL, automações low-code (Zapier/Make), conhecimento básico em Python | Análise de dados
+- **Tecnologia:** SQL, automações low-code (Zapier/Make), Supabase, APIs de marketplace, conhecimento básico em Python | Análise de dados
+- **📥 PDF:** [Download Completo](docs/CASO_ESTUDO_1_PRECIFICACAO_Harley.pdf)
 
 ### 🏥 **[CASO 2: Automação CRM para Clínicas](CASO_ESTUDO_2_CRM_CLINICAS.md)**
 - **Problema:** 25% de cancelamento de pacientes
